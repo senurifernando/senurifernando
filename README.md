@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senurifernando&label=Profile%20views&color=0e75b6&style=flat" alt="senurifernando" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senurifernando" alt="senurifernando" /></a> </p>
+<p align="left" background-color="black"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senurifernando" alt="senurifernando" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
