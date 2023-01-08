@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋,I'm Senuri Fernando <h1>
-<h3 align="center">I am an Undergraduate of Uva Wellassa University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senurifernando&label=Profile%20views&color=0e75b6&style=flat" alt="senurifernando" /> </p>
 
